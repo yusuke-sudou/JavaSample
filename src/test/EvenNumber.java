@@ -11,3 +11,4 @@ public class EvenNumber {
 	}
 
 }
+// forループでiを2から10まで2ずつ増加させながら繰り返す。
